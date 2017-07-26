@@ -8,3 +8,14 @@
 ### Clone Repository
 * `git clone` *gitRepoUrl*`(eg. https://github.com/abhissha/GitCommands.git)`
 
+### Add changes to commit
+##### Add all changes to next commit
+* `git add -A`
+
+### Add commit changes
+##### Commit all changes locally
+* `git commit -m ` *"commit message"*
+
+### Push changes to remote branch
+* `git push`
+
