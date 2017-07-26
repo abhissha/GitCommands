@@ -12,7 +12,7 @@
 ##### Add all changes to next commit
 * `git add -A`
 
-### Add commit changes
+### Commit Changes
 ##### Commit all changes locally
 * `git commit -m ` *"commit message"*
 
