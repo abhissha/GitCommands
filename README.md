@@ -1,7 +1,7 @@
 # GitCommands
 
 ### Change Directory
-* `cd /driveletter/destinationdirectory
+* `cd /driveletter/destinationdirectory`
 
 ### Setup UserName and User email globally
 ##### The username and email set up globally will be used for your commits. This helps set up your name/email private. This has no association with actual git username.
@@ -24,7 +24,7 @@
 
 ### Branches
 ##### Display all local branches
-* `git branch
+* `git branch`
 
 ##### Remove local branch
-* `git branch -d local_branch_name
+* `git branch -d local_branch_name`
