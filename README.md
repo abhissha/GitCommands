@@ -31,7 +31,7 @@
 
 ### Merge
 ##### Merge from other local branch
-* `git merge branchname`
+* `git merge local_branch_name`
 
 ##### Resolve conflicts(need to have some mergetool installed)
 * `git mergetool`
