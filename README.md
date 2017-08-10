@@ -28,3 +28,10 @@
 
 ##### Remove local branch
 * `git branch -d local_branch_name`
+
+### Merge
+##### Merge from other local branch
+* `git merge branchname`
+
+##### Resolve conflicts(need to have some mergetool installed)
+* `git mergetool`
